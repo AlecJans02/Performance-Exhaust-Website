@@ -1,0 +1,27 @@
+.glass {
+    background-color: rgba(225, 225, 225, 0.1);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    border: 1px solid rgba(225, 225, 225, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    height: 350px;
+    width: 550px;
+}
+
+.Title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.Text {
+    margin-bottom: 45px;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.LinkOne {
+    margin-right: 60px;
+    width: 80px;
+}

@@ -1,0 +1,14 @@
+.VidBackground {
+    position: absolute;
+    z-index: 0;
+}
+
+.CardBackground {
+    position: absolute;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
