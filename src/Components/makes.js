@@ -306,7 +306,7 @@ var makes = [
             {
                 model: "A45 AMG",
                 years: [
-                    {year: "2015-2018"}
+                    {year: "2015-2022"}
                 ]
             },
             {
@@ -325,7 +325,7 @@ var makes = [
             {
                 model: "CLA45 AMG",
                 years: [
-                    {year: "2013-2018"}
+                    {year: "2013-2022"}
                 ]
             },
             {
@@ -353,12 +353,6 @@ var makes = [
                 ]
             },
             {
-                model: "400 Z",
-                years: [
-                    {year: "2022+"}
-                ]
-            },
-            {
                 model: "370 Z",
                 years: [
                     {year: "2009-2020"}
@@ -371,33 +365,39 @@ var makes = [
         make: "Porsche",
         models: [
             {
-                model: "911 Turbo S",
+                model: "911 Turbo S (991.2/992)",
                 years: [
                     {year: "2017+"}
                 ]
             },
             {
-                model: "911 GT3",
+                model: "911 GT3 (991.2/992)",
                 years: [
                     {year: "2017+"}
                 ]
             },
             {
-                model: "911 GT3 RS",
+                model: "911 GT3 RS (991.2/992)",
                 years: [
                     {year: "2017+"}
                 ]
             },
             {
-                model: "911 GT2",
+                model: "911 GT2 (991.2/992)",
                 years: [
                     {year: "2017+"}
                 ]
             },
             {
-                model: "911 GT2 RS",
+                model: "911 GT2 RS (991.2/992)",
                 years: [
                     {year: "2017+"}
+                ]
+            },
+            {
+                model: "Cayman GT4/GT4 RS",
+                years: [
+                    {year: "2022+"}
                 ]
             },
             {

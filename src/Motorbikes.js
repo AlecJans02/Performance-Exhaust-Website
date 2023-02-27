@@ -4,7 +4,7 @@ import Navbar from './Components/Navbar.js'
 import 'bootstrap/dist/js/bootstrap.js';
 import React from 'react';
 import Motorbikedropdown from './Components/Motorbikedropdown.js';
-import r6 from './r6.webp';
+import r6 from './r6test.jpg';
 import './Motorbike.css';
 
 function Motorbikes () {

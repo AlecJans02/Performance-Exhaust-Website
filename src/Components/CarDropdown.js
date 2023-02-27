@@ -6,7 +6,8 @@ import Makes from './makes.js';
 import {Alfaone, Audione, Auditwo, Audithree, Audifour, Audifive, Audisix, Audiseven, Audieight, Audinine, Auditen, Audieleven, Auditwelve, Bentlyone, Bmwone, 
 Bmwtwo, Bmwthree, Bmwfour, Bmwfive, Bmwsix, Bmwseven, Bmweight, Bmwnine, Bmwten, Bmweleven, Bmwtwelve, Corvetteone, Corvettetwo, Ferrarione, Ferraritwo, Ferrarithree,
 Ferrarifour, Ferrarifive, Ferrarisix, Lamboone, Lambotwo, Lambothree, Masseratione, Masseratitwo, Masseratithree, Mclarenone, Mclarentwo, Mclarenthree,
-Mclarenfour, Mclarenfive, Mclarensix} from './Carexhaustdisplays.js';
+Mclarenfour, Mclarenfive, Mclarensix, Mercedesone, Mercedestwo, Mercedesthree, Mercedesfour, Mercedesfive, Mercedessix, Mercedesseven, Mercedeseight,
+Nissanone, Nissantwo, Porscheone, Porschetwo, Porschethree, Porschefour, Porschefive, Porschesix, Porscheseven, Toyota} from './Carexhaustdisplays.js';
 
 export function CarDropdown() {
   const [selectedMake, setSelectedMake] = useState('');
@@ -98,6 +99,25 @@ export function CarDropdown() {
     {selectedMake === "McLaren" && selectedModel === "650 S" && selectedYear === "2014-2019" && <Mclarenfour />}
     {selectedMake === "McLaren" && selectedModel === "540 C" && selectedYear === "2015+" && <Mclarenfive />}
     {selectedMake === "McLaren" && selectedModel === "600 LT" && selectedYear === "2018+" && <Mclarensix />}
+    {selectedMake === "Mercedes" && selectedModel === "A35 AMG" && selectedYear === "2018+" && <Mercedesone />}
+    {selectedMake === "Mercedes" && selectedModel === "A45 AMG" && selectedYear === "2015-2022" && <Mercedestwo />}
+    {selectedMake === "Mercedes" && selectedModel === "C63 AMG" && selectedYear === "2011-2015" && <Mercedesthree />}
+    {selectedMake === "Mercedes" && selectedModel === "C63 AMG" && selectedYear === "2015-2022" && <Mercedesfour />}
+    {selectedMake === "Mercedes" && selectedModel === "CLA35 AMG" && selectedYear === "2020-2023" && <Mercedesfive />}
+    {selectedMake === "Mercedes" && selectedModel === "CLA45 AMG" && selectedYear === "2013-2022" && <Mercedessix />}
+    {selectedMake === "Mercedes" && selectedModel === "AMG GT" && selectedYear === "2015-2021" && <Mercedesseven />}
+    {selectedMake === "Mercedes" && selectedModel === "AMG GT Blackseries" && selectedYear === "2021+" && <Mercedeseight />}
+    {selectedMake === "Nissan" && selectedModel === "R35 GTR" && selectedYear === "2007-2023" && <Nissanone />}
+    {selectedMake === "Nissan" && selectedModel === "370 Z" && selectedYear === "2009-2020" && <Nissantwo />}
+    {selectedMake === "Porsche" && selectedModel === "911 Turbo S (991.2/992)" && selectedYear === "2017+" && <Porscheone />}
+    {selectedMake === "Porsche" && selectedModel === "911 GT3 (991.2/992)" && selectedYear === "2017+" && <Porschetwo />}
+    {selectedMake === "Porsche" && selectedModel === "911 GT3 RS (991.2/992)" && selectedYear === "2017+" && <Porschethree />}
+    {selectedMake === "Porsche" && selectedModel === "911 GT2 RS (991.2/992)" && selectedYear === "2017+" && <Porschefour />}
+    {selectedMake === "Porsche" && selectedModel === "911 GT2 (991.2/992)" && selectedYear === "2017+" && <Porschefour />}
+    {selectedMake === "Porsche" && selectedModel === "Cayman GT4/GT4 RS" && selectedYear === "2022+" && <Porschefive />}
+    {selectedMake === "Porsche" && selectedModel === "Boxster" && selectedYear === "2012-2016" && <Porschesix />}
+    {selectedMake === "Porsche" && selectedModel === "Boxster" && selectedYear === "2016+" && <Porscheseven />}
+    {selectedMake === "Toyota" && selectedModel === "MK5 Supra (I6)" && selectedYear === "2019+" && <Toyota />}
     </div>
     </div>
   );

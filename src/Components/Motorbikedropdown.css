@@ -12,3 +12,10 @@
 .Dropdowntwo {
     margin-right: 40px;
 }
+
+.Bikecarddisplay {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

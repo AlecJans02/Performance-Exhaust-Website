@@ -2922,5 +2922,1139 @@ export const Mclarensix = () => {
     )
 }
 
+export const Mercedesone = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +5.2 HP & 6.6nm</h2>
+            <h2>Weight Reduction: -4.7 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/20875/Mercedes-AMG/A-35-W177/2022?brandId=25&modelId=1138&yearId=6981" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/other-makes-models/mercedes-benz/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Mercedestwo = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +8.5 HP & 9.1nm</h2>
+            <h2>Weight Reduction: -9.6 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/21160/Mercedes-AMG/A-45-A-45-S-W177/2022?brandId=25&modelId=1120&yearId=6705" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/other-makes-models/mercedes-benz/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Mercedesthree = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +11.6 HP & 22.3nm</h2>
+            <h2>Weight Reduction: -19.3 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/739/Mercedes-AMG/C-63-Coup%C3%A9-C204/2014?brandId=25&modelId=78&yearId=308" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/other-makes-models/mercedes-benz/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Mercedesfour = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +7.9 HP & 27.9nm</h2>
+            <h2>Weight Reduction: -13 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/17205/Mercedes-AMG/C-63-Coup%C3%A9-C205/2018?brandId=25&modelId=831&yearId=5065" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: est. +22 HP</h2>
+            <h2>Weight Reduction: TBD</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/milltek-c63-c63-s-w205-saloon-e63s-amg-w213-4-0-bi-turbo-v8-hi-flow-sports-cat-and-downpipe/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Mercedesfive = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +5.2 HP & 6.6nm</h2>
+            <h2>Weight Reduction: -4.7 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/21088/Mercedes-AMG/CLA-35-C118-X118/2022?brandId=25&modelId=1112&yearId=6979" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/other-makes-models/mercedes-benz/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Mercedessix = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +8.5 HP & 9.1nm</h2>
+            <h2>Weight Reduction: -9.6 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/21159/Mercedes-AMG/CLA-45-CLA-45-S-C118-X118/2022?brandId=25&modelId=1121&yearId=6707" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: est. +7.7 HP</h2>
+            <h2>Weight Reduction: est. -7.8 KG</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/milltek-cla45-amg-2-0-turbo-cat-back-exhaust-system/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Mercedesseven = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +13 HP & 36.2nm</h2>
+            <h2>Weight Reduction: -12.2 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/20877/Mercedes-AMG/Coup%C3%A9-GT-GT-S-GT-C/2018?brandId=25&modelId=854&yearId=5069" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: +25 WHP</h2>
+            <h2>Weight Reduction: TBD</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/fabspeed-mercedes-benz-amg-gt-gtr-gts-sport-cat-downpipes-2015-2021/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Mercedeseight = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: est. +44 HP</h2>
+            <h2>Weight Reduction: TBD</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/fabspeed-mercedes-benz-amg-gt-black-series-sport-cat-downpipes-2021/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Nissanone = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +8 HP & 11.6nm</h2>
+            <h2>Weight Reduction: -8.4 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/77/Nissan/GT-R/2023?brandId=14&modelId=10&yearId=7205" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: est. +38 HP</h2>
+            <h2>Weight Reduction: TBD</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/product/269" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Nissantwo = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +12.6 HP & 10.4nm</h2>
+            <h2>Weight Reduction: -3.8 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/73/Nissan/370Z/2020?brandId=14&modelId=9&yearId=5927" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: est. +6.1 HP</h2>
+            <h2>Weight Reduction: TBD</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/products/14006-magnaflow-performance-muffler-5-x-8-oval-25-xmod-14006" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Porscheone = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +22.2 HP & 46.8nm</h2>
+            <h2>Weight Reduction: -9 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/21317/Porsche/911-Turbo-Turbo-S-Cabriolet-992/2023?brandId=15&modelId=1166&yearId=7203" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: +25 WHP</h2>
+            <h2>Weight Reduction: -3 KG</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/fabspeed-porsche-991-2-turbo-turbo-s-supersport-x-pipe-exhaust-system-2017-2020/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: est +25 HP</h2>
+            <h2>Weight Reduction: TBD</h2> 
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/porsche/911-turbo-turbo-s-992-no-gpf-2020/mufflers/992-carrera-turbo-straight-pipe-central-muffler.html" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Porschetwo = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +8.7 HP & 24.1nm</h2>
+            <h2>Weight Reduction: -3.5 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/21563/Porsche/911-GT3-GT3-TOURING-992/2023?brandId=15&modelId=1212&yearId=7202" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: +14 WHP</h2>
+            <h2>Weight Reduction: -3.2 KG</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/fabspeed-porsche-992-gt3-valvetronic-nordschleife-cat-back-exhaust-system-2022/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: est +19 HP</h2>
+            <h2>Weight Reduction: TBD</h2> 
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/porsche/911-gt3-992-2022/mufflers/992-gt3-full-motorsport-exhaust-system.html" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Porschethree = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +13.4 HP & 28.9nm</h2>
+            <h2>Weight Reduction: TBD</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/20947/Porsche/911-GT3-RS-9912-OPF-GPF/2020?brandId=15&modelId=1057&yearId=5929" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: TBD</h2>
+            <h2>Weight Reduction: -13.6 KG</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/porsche-991-2-gt3-gt3-rs-long-tube-competition-race-header-system/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/porsche.html" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Porschefour = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/products/Porsche?brandId=15" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: +24 WHP</h2>
+            <h2>Weight Reduction: -8.6 KG</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/porsche-991-2-gt2-rs-competition-cat-bypass-race-pipes-2018/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/porsche.html" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Porschefive = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +6.4 HP & 15.8nm</h2>
+            <h2>Weight Reduction: -6.5 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/21195/Porsche/718-Cayman-GT4-Spyder/2023?brandId=15&modelId=1119&yearId=7189" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: +32 WHP With Tune</h2>
+            <h2>Weight Reduction: TBD</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/fabspeed-718-gt4-gts-spyder-street-performance-package-2020/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: +5 HP & 12nm</h2>
+            <h2>Weight Reduction: -3 KG</h2> 
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/porsche/718-cayman-gt4-spyder-2019-2020.html" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Porschesix = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +8 HP & 18.1nm</h2>
+            <h2>Weight Reduction: -3.6 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/14248/Porsche/Boxster-981/2015?brandId=15&modelId=26&yearId=3867" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: est. +9.8 HP</h2>
+            <h2>Weight Reduction: -3.2 KG</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/fabspeed-porsche-981-boxster-cayman-rennkraft-modular-headers-with-hjs-catalytic-converters-2013-2016/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: +6 HP & 16nm</h2>
+            <h2>Weight Reduction: -3.5 KG</h2> 
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/porsche/boxster-s-cayman-s-3-4l-981-2012-2016.html" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Porscheseven = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/products/Porsche?brandId=15" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: est. +9.3 HP</h2>
+            <h2>Weight Reduction: -16.4 KG</h2>
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/fabspeed-porsche-718-boxster-cayman-supercup-turboback-exhaust-system-2017/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: est. +7 HP</h2>
+            <h2>Weight Reduction: TBD</h2> 
+            <h2>Material: Stainless steel</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/porsche/718-gpf-boxster-cayman-gts-2-0-2-5-2018/mufflers/718-gpf-motorsport-exhaust-system-w-valve.html" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
+export const Toyota = () => {
+    return (
+        <div className="Cardcontainer">
+            
+        <div className="Genericcard">
+            <img src={akra}></img>
+            <h1>Akraopovic Exhuast</h1>
+            <h2>Power Increase: +3 HP & 7.4nm</h2>
+            <h2>Weight Reduction: -6.1 KG</h2>
+            <h2>Material: Titanium</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.akrapovic.com/en/car/product/20819/Toyota/Supra-A90/2023?brandId=100&modelId=1025&yearId=7192" target="_blank">Akropovic</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={fabspeed}></img>
+            <h1>Fabspeed Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.fabspeed.com/" target="_blank">Fabspeed</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={ksg}></img>
+            <h1>Kreissieg Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://kreissieg.ocnk.net/" target="_blank">Kreissieg</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={mag}></img>
+            <h1>Magnaflow Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.magnaflow.com/" target="_blank">Magnaflow</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={novitech}></img>
+            <h1>Novitech Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2>
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://www.novitecgroup.com/en/" target="_blank">Novitech</Button>
+        </div>
+        <div className="Genericcard">
+            <img src={tubi}></img>
+            <h1>Tubi Exhuast</h1>
+            <h2>Power Increase: NA</h2>
+            <h2>Weight Reduction: NA</h2> 
+            <h2>Material: NA</h2>
+            <h3>for more info click on link below</h3>
+            <Button className="Webbutton" href="https://catalogue.tubistyle.it/?___store=en" target="_blank">Tubi Exhaust</Button>
+        </div>
+        </div>
+        
+    )
+}
+
 
 export default Carexhaustdisplays;

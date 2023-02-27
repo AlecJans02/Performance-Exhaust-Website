@@ -5,6 +5,7 @@ import Cars from '../Cars.js';
 import {LinkContainer} from 'react-router-bootstrap'
 import {Link} from 'react-router-dom';
 import { Router, useHref } from 'react-router';
+import { SearchBarResult } from './SearchbarResults.js';
 
 
 class Navbar extends Component {
@@ -47,8 +48,29 @@ class Navbar extends Component {
                   </li>
                 </ul>
                 <form className="d-flex" role="search">
-                  <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
-                  <button className="btn btn-outline-success" type="submit">Search</button>
+                  <input className="form-control" list="datalistOptions" id="exampleDataList" placeholder="Search Manufacturers" onChange={SearchBarResult}></input>
+                 <datalist id="datalistOptions">
+                    <option value="Alfa Romeo"></option>
+                    <option value="Aprillia"></option>
+                    <option value="Audi"></option>
+                    <option value="Bentley"></option>
+                    <option value="BMW"></option>
+                    <option value="BMW Motorrad"></option>
+                    <option value="Chevrolet"></option>
+                    <option value="Ducati"></option>
+                    <option value="Ferrari"></option>
+                    <option value="Honda"></option>
+                    <option value="Kawasaki"></option>
+                    <option value="Lamborghini"></option>
+                    <option value="Masserati"></option>
+                    <option value="McLaren"></option>
+                    <option value="Mercedes"></option>
+                    <option value="Nissan"></option>
+                    <option value="Porsche"></option>
+                    <option value="Susuki"></option>
+                    <option value="Toyota"></option>
+                    <option value="Yamaha"></option> {/* need to fix bottom of datalist on website as shows cities */}
+                  </datalist> 
                 </form>
               </div>
             </div>
@@ -57,5 +79,7 @@ class Navbar extends Component {
         );
     }
 }
+
+
 
 export default Navbar;
