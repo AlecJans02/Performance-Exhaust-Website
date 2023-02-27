@@ -48,7 +48,7 @@ class Navbar extends Component {
                   </li>
                 </ul>
                 <form className="d-flex" role="search">
-                  <input className="form-control" list="datalistOptions" id="exampleDataList" placeholder="Search Manufacturers" onChange={SearchBarResult}></input>
+                  <input className="form-control" list="datalistOptions" id="SearchResults" placeholder="Search Manufacturers" onChange={SearchBarResult}></input>
                  <datalist id="datalistOptions">
                     <option value="Alfa Romeo"></option>
                     <option value="Aprillia"></option>

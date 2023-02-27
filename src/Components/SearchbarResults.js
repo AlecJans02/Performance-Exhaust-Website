@@ -1,7 +1,7 @@
 import React from 'react';
 
 export const SearchBarResult = ()  => {
-    var selectedOption = document.getElementById("exampleDataList").value;
+    var selectedOption = document.getElementById("SearchResults").value;
     switch (selectedOption) {
       case "Alfa Romeo":
         window.open("https://www.alfaromeo.com.au/", "_blank");
